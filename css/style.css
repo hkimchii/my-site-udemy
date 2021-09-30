@@ -45,7 +45,7 @@ h1 {
     font-weight: normal;
     margin-bottom: 20px;
     color: #5F939A;
-    line-height: 2;
+    font-size: 1rem;
 }
 
 .middle-container {
@@ -63,6 +63,7 @@ h3 {
     font-family: 'Montserrat', sans-serif;
     color: #11999E;
     line-height: 2;
+    font-size: 1.15rem;
 }
 
 .skill-row {
@@ -100,6 +101,7 @@ hr {
 .contact-message {
     margin: 50px auto 70px auto;
     line-height: 2;
+    font-size: 1rem;
 }
 
 .btn {
